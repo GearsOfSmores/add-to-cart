@@ -1,0 +1,52 @@
+.product-btn {
+    font-size: smaller;
+  }
+  .shoe-img{
+    height: 200px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  list-group-item{
+    outline: .25px solid black;
+    outline-color: #00000013;
+}
+.card-header{
+    outline: .25px solid black;
+    outline-color: #00000013;
+}
+.card-body{
+    outline: .25px solid black;
+    outline-color: #00000013;
+}
+.form-control {
+    outline: .25px solid black;
+    outline-color: #00000013;
+}
+.list-group-item:first-child{
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+
+}
+.list-group-item:last-child{
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+li.list-group-item {
+  outline: .25px solid black;
+  outline-color: #0000002b;
+}
+.h4{
+    outline: .25px solid black;
+    outline-color: #00000013;
+}
+.nav-header{
+    outline: .25px solid black;
+    outline-color: #00000033
+}
+.product-img{
+    outline: .25px solid black;
+    outline-color: #00000013;
+}
